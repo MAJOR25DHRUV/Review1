@@ -9,3 +9,12 @@
 # Task-2
     - Print the largest prime number
         take an array as user input, find all the prime numbers in them and then print the largest prime number
+
+#Review-2
+
+#Date - 07-02-25
+
+#Task-1
+    -Sort the words in a sentence in descending lexicographical order
+#Task-2
+    -Print whole number without using loops
